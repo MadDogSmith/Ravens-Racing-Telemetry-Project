@@ -9,7 +9,7 @@ the project is built in a structured, professional, and maintainable manner.
 
 ## 0. Project Scope Definition
 
-Version 1 (Minimum Viable Product):
+Version 1:
 - One Arduino generates telemetry data (simulated initially)
 - Data is transmitted to a second Arduino
 - Second Arduino forwards data to a laptop via USB serial
