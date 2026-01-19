@@ -1,11 +1,11 @@
 #include <Arduino.h>
+#include "telemetry.h"
 
 void setup() {
-  // put your setup code here
-  Serial.begin(9600);
+  Serial.begin(115200);
+  telemetryInit();
 }
 
 void loop() {
-  // put your main code here
-  delay(1000);
+  telemetryUpdate();
 }
