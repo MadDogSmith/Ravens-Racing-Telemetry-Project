@@ -1,4 +1,5 @@
-// This function runs once when the Arduino boots
+// This function runs once when the Arduino boots up
+
 void setup() {
   // Start USB serial communication at 115200 baud
   // This MUST match the baud rate used in Python
