@@ -1,8 +1,8 @@
-import serial      
-import time        
+import time
+import serial
 
 # Serial port settings
-PORT = "COM6"          
+PORT = "COM4"          
 BAUD_RATE = 115200    
 
 
