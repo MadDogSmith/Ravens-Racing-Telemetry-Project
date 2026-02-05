@@ -1,4 +1,4 @@
-# Phase 1 — Single Arduino to Laptop
+# Phase 1 -> Single Arduino to Laptop
 
 ## Objective:
 Establish reliable communication between one Arduino and a Python application.
@@ -44,3 +44,4 @@ Establish reliable communication between one Arduino and a Python application.
 Telemetry data is streamed continuously over USB serial
 Python successfully parses incoming packets without failure
 System can run for extended periods without crashing or data corruption
+
